@@ -1,7 +1,2 @@
-Update (10/2/2023)
--fixed load full old in light old version
-- fixed old full version 
--added insert/delete/end keys in old full 
-to show and hide and exit
-- veryold still need small fixes
+Update (14/2/2023) | Gust mode removed , its only for who get connection block to database
 
