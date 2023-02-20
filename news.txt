@@ -1,2 +1,2 @@
-Update (14/2/2023) | Gust mode removed , its only for who get connection block to database
+Fixed Banned error / new login form 
 
