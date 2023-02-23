@@ -1,2 +1,5 @@
-Fixed Banned error / new login form 
+Staff section update
+[+] staff can ban / add/remove/reset/change in knkcheats database
+[+] staff also can unbanned
+
 
