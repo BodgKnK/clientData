@@ -1,5 +1,2 @@
-Staff section update
-[+] staff can ban / add/remove/reset/change in knkcheats database
-[+] staff also can unbanned
-
+Update (2/2/2023) | Added cheat for skinchanger only | knkcheats faceit server side is online now.
 
